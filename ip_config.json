@@ -1,35 +1,6 @@
 {
-  "vps_list": [
-    {
-      "name": "DigitalOcean NYC",
-      "vps_ip": "137.184.35.172",
-      "whatismyip": "1.7.4.1",
-      "active": true
-    },
-    {
-      "name": "AWS Singapore",
-      "vps_ip": "54.169.123.456",
-      "whatismyip": "2.8.5.2",
-      "active": true
-    },
-    {
-      "name": "Linode Tokyo",
-      "vps_ip": "192.81.135.789",
-      "whatismyip": "3.9.6.3",
-      "active": false
-    },
-    {
-      "name": "Vultr London",
-      "vps_ip": "108.61.201.123",
-      "whatismyip": "4.10.7.4",
-      "active": true
-    }
-  ],
-  "settings": {
-    "check_all_vps": false,
-    "max_retries": 3,
-    "timeout": 10,
-    "check_interval_hours": 24,
-    "auto_update": true
-  }
+  "name": "saisai",
+  "vps_ip": "137.184.35.172",
+  "whatismyip": "1.7.4.1",
+  "active": true
 }
