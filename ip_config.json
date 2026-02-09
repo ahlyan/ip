@@ -1,27 +1,35 @@
 {
-    "vps_list": [
-        {
-            "name": "DigitalOcean NYC",
-            "vps_ip": "137.184.35.172",
-            "whatismyip": "137.184.35.172",
-            "active": true
-        },
-        {
-            "name": "AWS Singapore", 
-            "vps_ip": "54.169.123.456",
-            "whatismyip": "54.169.123.456",
-            "active": true
-        },
-        {
-            "name": "saisai",
-            "vps_ip": "137.184.35.172", 
-            "whatismyip": "137.184.35.172",
-            "active": true
-        }
-    ],
-    "settings": {
-        "check_all_vps": false,
-        "max_retries": 3,
-        "timeout": 10
+  "vps_list": [
+    {
+      "name": "DigitalOcean NYC",
+      "vps_ip": "137.184.35.172",
+      "whatismyip": "137.184.35.172",
+      "active": true
+    },
+    {
+      "name": "AWS Singapore",
+      "vps_ip": "54.169.123.456",
+      "whatismyip": "54.169.123.456",
+      "active": true
+    },
+    {
+      "name": "saisai",
+      "vps_ip": "137.184.35.172",
+      "whatismyip": "137.184.35.172",
+      "active": true
+    },
+    {
+      "vps_ip": "143.198.93.149",
+      "whatismyip": "143.198.93.149",
+      "notes": "\"VPS",
+      "active": false,
+      "added_by": "Telegram: 7624981442",
+      "added_date": "2026-02-09 11:38:27"
     }
+  ],
+  "settings": {
+    "check_all_vps": false,
+    "max_retries": 3,
+    "timeout": 10
+  }
 }
