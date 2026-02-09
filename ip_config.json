@@ -1,21 +1,10 @@
 {
     "vps_list": [
-        {
-            "name": "DigitalOcean NYC",
-            "vps_ip": "137.184.35.172",
-            "whatismyip": "1.7.4.1",
-            "active": true
-        },
-        {
-            "name": "AWS Singapore",
-            "vps_ip": "54.169.123.456",
-            "whatismyip": "2.8.5.2",
-            "active": true
-        },
+        
         {
             "name": "saisai",
             "vps_ip": "137.184.35.172",
-            "whatismyip": "1.7.4.1",
+            "whatismyip": "137.184.35.172",
             "active": true
         }
     ],
