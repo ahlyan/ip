@@ -47,6 +47,26 @@
       "active": true,
       "added_by": "Telegram: 7624981442",
       "added_date": "2026-03-21 17:42:56"
+    },
+    {
+  "vps_list": [
+    {
+      "vps_ip": "45.76.189.120",
+      "whatismyip": "103.129.235.55",
+      "notes": "Main Server",
+      "active": true,
+      "added_by": "Admin",
+      "added_date": "2024-01-01 10:00:00"
+    },
+    {
+      "vps_ip": "27.125.250.11",
+      "whatismyip": "27.125.250.11",
+      "notes": "User IP - Phone",
+      "active": true,
+      "added_by": "Admin",
+      "added_date": "2024-01-15 14:30:00"
+    }
+  ]
     }
   ]
 }
