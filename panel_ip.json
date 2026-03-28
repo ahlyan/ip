@@ -1,1 +1,11 @@
-
+{
+  "allowed_users": [
+    {
+      "user_ip": "27.125.250.11",
+      "notes": "User Phone IP",
+      "active": true,
+      "added_by": "Admin",
+      "added_date": "2025-01-15 14:30:00"
+    }
+  ]
+}
