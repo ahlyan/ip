@@ -1,5 +1,11 @@
 {
     "vps_list": [
-        
+        {
+            "vps_ip": "157.230.44.122",
+            "notes": "Added via Telegram Bot",
+            "active": true,
+            "added_by": "Telegram",
+            "added_date": "2026-03-30 04:22:46"
+        }
     ]
 }
