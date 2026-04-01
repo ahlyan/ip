@@ -31,6 +31,14 @@
             "active": true,
             "added_by": "Telegram Bot",
             "added_date": "2026-04-01 12:07:58"
+        },
+        {
+            "vps_ip": "157.230.44.122",
+            "name": "VPS_157_230_44_122",
+            "expiry": "2026-05-01",
+            "active": true,
+            "added_by": "Telegram Bot",
+            "added_date": "2026-04-01 13:22:23"
         }
     ]
 }
