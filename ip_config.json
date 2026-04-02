@@ -1,5 +1,14 @@
 {
     "vps_list": [
-        
+        {
+            "vps_ip": "159.223.64.120",
+            "name": "abc",
+            "passwort": "24q05WOJUGAV",
+            "license_key": "46CF-B790-86AB-3FA7",
+            "expiry": "2026-05-02",
+            "active": true,
+            "added_by": "Telegram Bot",
+            "added_date": "2026-04-02 17:12:47"
+        }
     ]
 }
