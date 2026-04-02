@@ -8,29 +8,6 @@
             "admin_username": "sai",
             "admin_password": "123",
             "license_key": "4893-C1C1-D8C7-D76D"
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-04-03",
-            "expiry_timestamp": 1775167200,
-            "days": 1,
-            "name": "ahlyan",
-            "admin_username": "ahlyan",
-            "admin_password": "ahlyan",
-            "license_key": "DF33-AC79-913B-70E2",
-            "created_date": "2026-04-02 20:50:12"
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-04-03",
-            "name": "yan",
-            "admin_username": "yan",
-            "admin_password": "123",
-            "limits": 1,
-            "license_key": "06AD-280E-4308-B9C7",
-            "created_date": "2026-04-02 21:40:26"
         }
     ]
 }
