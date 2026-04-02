@@ -8,15 +8,6 @@
             "admin_username": "sai",
             "admin_password": "123",
             "license_key": "4893-C1C1-D8C7-D76D"
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-05-02",
-            "name": "sai",
-            "admin_username": "sai",
-            "admin_password": "123",
-            "license_key": "FA8C-180D-9617-63B8"
         }
     ]
 }
