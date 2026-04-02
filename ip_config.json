@@ -1,54 +1,5 @@
 {
     "vps_list": [
-        {
-            "vps_ip": "143.198.93.149",
-            "name": "VPS_143_198_93_149",
-            "expiry": "2026-04-29",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-03-30 04:26:52"
-        },
-        {
-            "vps_ip": "35.198.198.92",
-            "name": "ahlyan",
-            "expiry": "2026-04-29",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-03-30 04:43:50"
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "name": "ahlyan1",
-            "expiry": "2026-06-28",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-03-30 10:52:04"
-        },
-        {
-            "vps_ip": "157.230.44.122",
-            "name": "ddd",
-            "expiry": "2026-06-30",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-01 13:26:43"
-        },
-        {
-            "vps_ip": "159.223.64.120",
-            "name": "abc",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 15:44:02"
-        },
-        {
-            "vps_ip": "159.23.64.120",
-            "name": "arbc",
-            "passwort": "vWWIObOzLfgn",
-            "license_key": "31F9-88BE-A821-BCD3",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 17:11:11"
-        }
+        
     ]
 }
