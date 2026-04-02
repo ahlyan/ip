@@ -1,24 +1,13 @@
 {
     "licenses": [
         {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-05-02",
-            "name": "sai",
-            "admin_username": "sai",
-            "admin_password": "123",
-            "license_key": "4893-C1C1-D8C7-D76D",
-            "added_date": "2026-04-02 18:45:04"
-        }
-    ],
-    "vps_list": [
-        {
-            "vps_ip": "104.248.154.250",
-            "name": "sai",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 18:45:05"
+    "vps_ip": "27.125.241.91",
+    "active": true,
+    "expiry": "2026-05-02",
+    "name": "sai",
+    "admin_username": "sai",
+    "admin_password": "123",
+    "license_key": "4893-C1C1-D8C7-D76D"
         }
     ]
 }
