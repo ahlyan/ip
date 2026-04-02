@@ -9,6 +9,16 @@
             "active": true,
             "added_by": "Telegram Bot",
             "added_date": "2026-04-02 17:12:47"
+        },
+        {
+            "vps_ip": "159.223.64.12",
+            "name": "VPS_159_223_64_12",
+            "passwort": "U2AKn53tj4gL",
+            "license_key": "FE6F-F1DE-FFA0-A345",
+            "expiry": "2026-05-02",
+            "active": true,
+            "added_by": "Telegram Bot",
+            "added_date": "2026-04-02 17:13:31"
         }
     ]
 }
