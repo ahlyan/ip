@@ -1,7 +1,7 @@
 {
     "vps_list": [
         {
-            "vps_ip": "27.125.241.91",
+            "vps_ip": "159.223.64.120",
             "active": true,
             "expiry": "2026-05-02",
             "name": "sai",
