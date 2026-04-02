@@ -1,34 +1,10 @@
 {
     "vps_list": [
         {
-            "vps_ip": "159.223.64.120",
-            "name": "abc",
-            "passwort": "24q05WOJUGAV",
-            "license_key": "46CF-B790-86AB-3FA7",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 17:12:47"
-        },
-        {
-            "vps_ip": "159.223.64.12",
-            "name": "VPS_159_223_64_12",
-            "passwort": "U2AKn53tj4gL",
-            "license_key": "FE6F-F1DE-FFA0-A345",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 17:13:31"
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "name": "VPS_104_248_154_250",
-            "passwort": "3BRbTuuuvB6k",
-            "license_key": "0EF8-9CA1-10CA-8D38",
-            "expiry": "2026-05-02",
-            "active": true,
-            "added_by": "Telegram Bot",
-            "added_date": "2026-04-02 17:39:39"
+    "vps_ip": "159.223.64.120",
+    "active": true,
+    "expiry": "2026-12-31",
+    "name": "saisai"
         }
     ]
 }
