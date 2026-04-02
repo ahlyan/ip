@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "vps_ip": "104.248.154.250",
+        "active": true,
+        "expiry": "2026-05-02",
+        "name": "Client Name",
+        "admin_username": "user601",
+        "admin_password": "N6V34Mqtak",
+        "license_key": "EVT-0416-7934-B984"
+    }
+]
