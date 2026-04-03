@@ -10,7 +10,6 @@
             "license_key": "EVT-XXXX-XXXX",
             "limits": 1
         },
-        
         {
             "vps_ip": "104.248.154.250",
             "active": true,
@@ -20,6 +19,16 @@
             "admin_password": "123",
             "license_key": "EVT-6545-F387",
             "limits": 1
+        },
+        {
+            "vps_ip": "104.248.154.250",
+            "active": true,
+            "expiry": "2026-08-04",
+            "name": "",
+            "admin_username": "",
+            "admin_password": "ahylyan",
+            "license_key": "EVT-F73E-68BE",
+            "limits": 30
         }
     ]
 }
