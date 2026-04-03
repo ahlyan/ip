@@ -9,16 +9,6 @@
             "admin_password": "abc123",
             "license_key": "EVT-44C7-BA8E",
             "limits": 1
-        },
-        {
-            "vps_ip": "157.230.44.122",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "VVIP",
-            "admin_username": "VPN",
-            "admin_password": "abc123",
-            "license_key": "EVT-3FEA-B4FB",
-            "limits": 1
         }
     ]
 }
