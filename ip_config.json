@@ -19,6 +19,16 @@
             "admin_password": "abc123",
             "license_key": "EVT-7C5B-A16D",
             "limits": 1
+        },
+        {
+            "vps_ip": "104.248.154.250",
+            "active": true,
+            "expiry": "2026-04-04",
+            "name": "ahlan",
+            "admin_username": "saisai",
+            "admin_password": "abc123",
+            "license_key": "EVT-82C0-AB21",
+            "limits": 1
         }
     ]
 }
