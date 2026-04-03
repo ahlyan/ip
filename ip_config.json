@@ -1,14 +1,15 @@
 {
     "vps_list": [
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-12-31",
-            "name": "ahlyan",
-            "admin_username": "admin",
-            "admin_password": "admin123",
-            "license_key": " 2066-D3AD-01DF-88D6",
-            "limits": 2
-        }
+       {
+    "vps_ip": "104.248.154.250",
+    "active": true,
+    "expiry": "2026-12-31",
+    "name": "Client Name",
+    "admin_username": "admin",
+    "admin_password": "admin",
+    "license_key": "EVT-XXXX-XXXX",
+    "limits": 2
+       }
+        
     ]
 }
