@@ -1,14 +1,3 @@
 {
-    "vps_list": [
-        {
-            "vps_ip": "159.223.64.120",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "VIP",
-            "admin_username": "vvp",
-            "admin_password": "abc123",
-            "license_key": "EVT-44C7-BA8E",
-            "limits": 1
-        }
-    ]
+    "vps_list": []
 }
