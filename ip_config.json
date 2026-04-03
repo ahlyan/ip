@@ -21,16 +21,6 @@
             "limits": 1
         },
         {
-            "vps_ip": "159.223.64.120",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "vps",
-            "admin_username": "vip",
-            "admin_password": "abc123",
-            "license_key": "EVT-D353-28C2",
-            "limits": 1
-        },
-        {
             "vps_ip": "104.248.154.250",
             "active": true,
             "expiry": "2026-05-03",
