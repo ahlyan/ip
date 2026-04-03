@@ -1,36 +1,6 @@
 {
     "vps_list": [
         {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-12-31",
-            "name": "MyServer",
-            "admin_username": "admin",
-            "admin_password": "mypass123",
-            "license_key": "EVT-A1B2-C3D4",
-            "limits": 1
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "ahlyan",
-            "admin_username": "saisai",
-            "admin_password": "abc123",
-            "license_key": "EVT-7C5B-A16D",
-            "limits": 1
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "Sai",
-            "admin_username": "thuzar",
-            "admin_password": "123",
-            "license_key": "EVT-0F66-767E",
-            "limits": 1
-        },
-        {
             "vps_ip": "159.223.64.120",
             "active": true,
             "expiry": "2026-05-03",
@@ -48,16 +18,6 @@
             "admin_username": "VPN",
             "admin_password": "abc123",
             "license_key": "EVT-3FEA-B4FB",
-            "limits": 1
-        },
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-05-03",
-            "name": "mc",
-            "admin_username": "mc",
-            "admin_password": "123",
-            "license_key": "EVT-5819-D9E0",
             "limits": 1
         }
     ]
