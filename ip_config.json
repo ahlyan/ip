@@ -1,14 +1,3 @@
 {
-    "vps_list": [
-        {
-            "vps_ip": "104.248.154.250",
-            "active": true,
-            "expiry": "2026-12-29",
-            "name": "EVT",
-            "admin_username": "EVT",
-            "admin_password": "evt969",
-            "license_key": "EVT-9A50-F054",
-            "limits": 1
-        }
-    ]
+    "vps_list": []
 }
