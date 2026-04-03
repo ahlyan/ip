@@ -9,6 +9,16 @@
             "admin_password": "evt969",
             "license_key": "EVT-01AA-D2DE",
             "limits": 1
+        },
+        {
+            "vps_ip": "168.144.32.219",
+            "active": true,
+            "expiry": "2026-05-03",
+            "name": "DELE",
+            "admin_username": "dele",
+            "admin_password": "123",
+            "license_key": "EVT-9A5E-E45A",
+            "limits": 1
         }
     ]
 }
