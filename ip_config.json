@@ -29,6 +29,16 @@
             "admin_password": "123",
             "license_key": "EVT-C2CF-7718",
             "limits": 1
+        },
+        {
+            "vps_ip": "157.245.202.15",
+            "active": true,
+            "expiry": "2026-05-05",
+            "name": "SAI",
+            "admin_username": "admin",
+            "admin_password": "123",
+            "license_key": "EVT-C12D-EAB5",
+            "limits": 1
         }
     ]
 }
