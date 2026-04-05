@@ -1,4 +1,4 @@
-{
+9{
     "vps_list": [
         {
             "vps_ip": "168.144.32.219",
@@ -28,7 +28,7 @@
             "admin_username": "admin",
             "admin_password": "123",
             "license_key": "EVT-C2CF-7718",
-            "limits": 1
+            "limits": 2
         }
     ]
 }
