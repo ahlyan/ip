@@ -28,7 +28,7 @@
             "admin_username": "admin",
             "admin_password": "123",
             "license_key": "EVT-C2CF-7718",
-            "limits": 2
+            "limits": 1
         }
     ]
 }
