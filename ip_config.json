@@ -1,5 +1,14 @@
 {
     "vps_list": [
-      
+        {
+            "vps_ip": "157.245.202.15",
+            "admin_username": "sai",
+            "admin_password": "123",
+            "telegram_id": "5144510599",
+            "license_key": "EVT-FF319D2B",
+            "expiry": "2026-05-06",
+            "limits": 1,
+            "active": true
+        }
     ]
 }
