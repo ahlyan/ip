@@ -39,6 +39,16 @@
             "admin_password": "123",
             "license_key": "EVT-C12D-EAB5",
             "limits": 1
+        },
+        {
+            "vps_ip": "43.249.33.136",
+            "active": true,
+            "expiry": "2027-04-06",
+            "name": "STLI",
+            "admin_username": "stli",
+            "admin_password": "123",
+            "license_key": "EVT-9259-96D6",
+            "limits": 1
         }
     ]
 }
