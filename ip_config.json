@@ -1,5 +1,4 @@
-{
-    "vps_list": [
+
         {
             "vps_ip": "43.249.33.136",
             "admin_username": "stlii",
@@ -10,5 +9,4 @@
             "limits": 1,
             "active": true
         }
-    ]
-}
+    
