@@ -1,5 +1,4 @@
-{
-    "vps_list": [
+
         {
             "vps_ip": "157.245.202.15",
             "admin_username": "sai",
@@ -20,5 +19,4 @@
             "limits": 1,
             "active": true
         }
-    ]
-}
+    
