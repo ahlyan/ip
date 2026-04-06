@@ -49,6 +49,16 @@
             "admin_password": "123",
             "license_key": "EVT-9259-96D6",
             "limits": 1
+        },
+        {
+            "vps_ip": "104.248.154.25",
+            "admin_username": "zaw",
+            "admin_password": "zaw123",
+            "telegram_id": "762498144",
+            "license_key": "EVT-5441F2D4",
+            "expiry": "2026-05-06",
+            "limits": 2,
+            "active": true
         }
     ]
 }
