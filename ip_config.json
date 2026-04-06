@@ -9,6 +9,16 @@
             "expiry": "2026-05-06",
             "limits": 1,
             "active": true
+        },
+        {
+            "vps_ip": "43.249.33.136",
+            "admin_username": "stli",
+            "admin_password": "123",
+            "telegram_id": "6998791194",
+            "license_key": "EVT-C3B79DAB",
+            "expiry": "2026-07-05",
+            "limits": 1,
+            "active": true
         }
     ]
 }
