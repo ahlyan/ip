@@ -1,22 +1,14 @@
-
+{
+    "vps_list": [
         {
             "vps_ip": "157.245.202.15",
             "admin_username": "sai",
             "admin_password": "123",
-            "telegram_id": "5144510599",
-            "license_key": "EVT-61CA2D4E",
-            "expiry": "2026-05-06",
-            "limits": 1,
-            "active": true
-        },
-        {
-            "vps_ip": "43.249.33.136",
-            "admin_username": "stlii",
-            "admin_password": "123",
-            "telegram_id": "69981194",
-            "license_key": "EVT-DA759A60",
-            "expiry": "2026-07-05",
+            "telegram_id": "51445105",
+            "license_key": "EVT-74AEA3E1",
+            "expiry": "2026-05-07",
             "limits": 1,
             "active": true
         }
-    
+    ]
+}
