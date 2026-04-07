@@ -17,7 +17,7 @@
             "telegram_id": "69981194",
             "license_key": "EVT-61CA24E",
             "expiry": "2026-12-31",
-            "limits": 100,
+            "limits": 1,
             "active": true
         },
        
