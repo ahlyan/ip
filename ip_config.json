@@ -1,21 +1,34 @@
 {
-    "vps_ip": "157.245.202.15",
-    "admin_username": "sai",
-    "admin_password": "123",
-    "telegram_id": "5144510599",
-    "license_key": "EVT-61CA2D4E",
-    "expiry": "2026-12-31",
-    "limits": 1,
-    "active": true
-},
-
-{
-    "vps_ip": "43.249.33.136",
-    "admin_username": "stli",
-    "admin_password": "123",
-    "telegram_id": "69981194",
-    "license_key": "EVT-61CA24E",
-    "expiry": "2026-12-31",
-    "limits": 100,
-    "active": true
+    "vps_list": [
+        {
+            "vps_ip": "157.245.202.15",
+            "admin_username": "sai",
+            "admin_password": "123",
+            "telegram_id": "5144510599",
+            "license_key": "EVT-61CA2D4E",
+            "expiry": "2026-12-31",
+            "limits": 1,
+            "active": true
+        },
+        {
+            "vps_ip": "43.249.33.136",
+            "admin_username": "stli",
+            "admin_password": "123",
+            "telegram_id": "69981194",
+            "license_key": "EVT-61CA24E",
+            "expiry": "2026-12-31",
+            "limits": 100,
+            "active": true
+        },
+        {
+            "vps_ip": "YOUR_THIRD_VPS_IP",
+            "admin_username": "your_username",
+            "admin_password": "your_password",
+            "telegram_id": "your_telegram_id",
+            "license_key": "EVT-XXXXXXXX",
+            "expiry": "2027-12-31",
+            "limits": 50,
+            "active": true
+        }
+    ]
 }
