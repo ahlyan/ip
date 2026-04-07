@@ -7,4 +7,15 @@
     "expiry": "2026-12-31",
     "limits": 1,
     "active": true
+},
+
+{
+    "vps_ip": "43.249.33.136",
+    "admin_username": "stli",
+    "admin_password": "123",
+    "telegram_id": "69981194",
+    "license_key": "EVT-61CA24E",
+    "expiry": "2026-12-31",
+    "limits": 100,
+    "active": true
 }
