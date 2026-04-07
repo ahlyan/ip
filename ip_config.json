@@ -20,16 +20,7 @@
             "limits": 100,
             "active": true
         },
-        {
-            "vps_ip": "YOUR_THIRD_VPS_IP",
-            "admin_username": "your_username",
-            "admin_password": "your_password",
-            "telegram_id": "your_telegram_id",
-            "license_key": "EVT-XXXXXXXX",
-            "expiry": "2027-12-31",
-            "limits": 50,
-            "active": true
-        },
+       
         {
             "vps_ip": "168.144.32.219",
             "admin_username": "Ahylyan",
