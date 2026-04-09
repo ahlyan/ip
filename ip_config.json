@@ -39,6 +39,16 @@
             "expiry": "2026-05-09",
             "limits": 1,
             "active": true
+        },
+        {
+            "vps_ip": "43.249.33.224",
+            "admin_username": "zeke",
+            "admin_password": "123",
+            "telegram_id": "7178911914",
+            "license_key": "EVT-41D2F605",
+            "expiry": "2026-05-09",
+            "limits": 1,
+            "active": true
         }
     ]
 }
