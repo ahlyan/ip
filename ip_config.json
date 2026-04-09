@@ -20,7 +20,6 @@
             "limits": 1,
             "active": true
         },
-       
         {
             "vps_ip": "168.144.32.219",
             "admin_username": "Ahylyan",
@@ -28,6 +27,16 @@
             "telegram_id": "7626518986",
             "license_key": "EVT-F6207A22",
             "expiry": "2026-05-07",
+            "limits": 1,
+            "active": true
+        },
+        {
+            "vps_ip": "152.42.219.199",
+            "admin_username": "Nwe",
+            "admin_password": "123",
+            "telegram_id": "76265189",
+            "license_key": "EVT-7E1BFE0C",
+            "expiry": "2026-05-09",
             "limits": 1,
             "active": true
         }
