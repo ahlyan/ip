@@ -49,6 +49,16 @@
             "expiry": "2026-05-09",
             "limits": 1,
             "active": true
+        },
+        {
+            "vps_ip": "152.42.182.30",
+            "admin_username": "groot",
+            "admin_password": "123",
+            "telegram_id": "1683995608",
+            "license_key": "EVT-E45D06DD",
+            "expiry": "2026-05-09",
+            "limits": 1,
+            "active": true
         }
     ]
 }
