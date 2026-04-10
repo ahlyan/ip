@@ -31,16 +31,6 @@
             "active": true
         },
         {
-            "vps_ip": "152.42.219.199",
-            "admin_username": "Nwe",
-            "admin_password": "123",
-            "telegram_id": "76265189",
-            "license_key": "EVT-7E1BFE0C",
-            "expiry": "2026-04-15",
-            "limits": 1,
-            "active": true
-        },
-        {
             "vps_ip": "43.249.33.224",
             "admin_username": "zeke",
             "admin_password": "123",
