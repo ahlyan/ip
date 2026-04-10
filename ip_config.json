@@ -68,7 +68,9 @@
             "license_key": "EVT-A9B88824",
             "expiry": "2026-05-10",
             "limits": 1,
-            "active": true
+            "active": false,
+            "compromised": true,
+            "compromised_at": "2026-04-10 19:41:17"
         }
     ]
 }
