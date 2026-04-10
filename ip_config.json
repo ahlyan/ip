@@ -68,7 +68,7 @@
             "license_key": "EVT-94C24E13",
             "expiry": "2026-05-10",
             "limits": 1,
-            "active": false,
+            "active": true,
             "compromised": true,
             "compromised_at": "2026-04-10 19:11:23"
         }
