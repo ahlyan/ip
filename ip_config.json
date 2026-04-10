@@ -68,7 +68,9 @@
             "license_key": "EVT-FA2EF7B4",
             "expiry": "2026-05-10",
             "limits": 1,
-            "active": true
+            "active": false,
+            "compromised": true,
+            "compromised_at": "2026-04-10 19:37:17"
         }
     ]
 }
