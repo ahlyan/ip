@@ -59,6 +59,16 @@
             "expiry": "2026-05-10",
             "limits": 1,
             "active": true
+        },
+        {
+            "vps_ip": "152.42.219.199",
+            "admin_username": "zer",
+            "admin_password": "123",
+            "telegram_id": "168308",
+            "license_key": "EVT-FA2EF7B4",
+            "expiry": "2026-05-10",
+            "limits": 1,
+            "active": true
         }
     ]
 }
