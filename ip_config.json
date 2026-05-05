@@ -29,6 +29,16 @@
             "expiry": "2026-05-12",
             "limits": 1,
             "active": true
+        },
+        {
+            "vps_ip": "157.245.202.15",
+            "admin_username": "sai",
+            "admin_password": "123",
+            "telegram_id": "7626518986",
+            "license_key": "EVT-BE538309",
+            "expiry": "2026-05-06",
+            "limits": 1,
+            "active": true
         }
     ]
 }
